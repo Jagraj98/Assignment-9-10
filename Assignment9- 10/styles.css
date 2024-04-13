@@ -1,0 +1,17 @@
+#paint-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+canvas {
+  border: 5px solid #ccc;
+}
+
+.controls {
+  margin-top: 5px;
+}
+
+.controls button {
+  margin: 5px;
+}
